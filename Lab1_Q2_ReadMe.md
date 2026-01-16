@@ -1,0 +1,1 @@
+Lab 1 Q2 found the value of cosines angles from 0-360 degrees. To function correctly, the degrees were converted to radians. Each value was saved to array "cosValues" and printed to the serial monitor to 6 decimal places.
