@@ -1,0 +1,1 @@
+Lab 1 Q5 scans a character array for a specific pattern (RIZ), and lights up the Green LED of RIZ is in the array. If RIZ is not in the array, the Red LED lights up. There is also a counter to keep track of the total occurrences of RIZ (gRIZCount), and this value is printed to the serial monitor.
