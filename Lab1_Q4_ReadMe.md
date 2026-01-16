@@ -1,0 +1,1 @@
+Lab 1 Q4 scans a character array, and detects R, G, B. If one of these is detected, it adds to the running count for each letter/color. If one of the colors was detected, a light of that color is turned on (except blue because my board only had red and green LEDs. The number of R, G, and Bs detected are printed to the serial monitor.
