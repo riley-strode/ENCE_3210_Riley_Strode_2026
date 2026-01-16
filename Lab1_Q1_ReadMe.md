@@ -1,0 +1,1 @@
+Lab 1 Q1 finds twice the square of all integers from 0-511. These values are stored in array "result" and printed to the serial monitor. Specific variable types were chosen to provide sufficient memory space.
