@@ -1,0 +1,12 @@
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-F_Cu.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-B_Cu.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-F_Paste.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-B_Paste.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-F_Silkscreen.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-B_Silkscreen.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-F_Mask.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-B_Mask.gbr'.
+Plotted to '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/rileystrode/Desktop/KiCad Files/Uno_Shield_DSP_Class_v2/docs/Uno_Shield_DSP_Class_v1-job.gbrjob'.
+Info: Done.
+Info: Done.
