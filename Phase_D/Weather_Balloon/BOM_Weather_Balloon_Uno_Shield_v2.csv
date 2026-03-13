@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"PinSocket_1x08_P2.54mm_Vertical";1;"Power";;;
+2;"J3";"PinSocket_1x06_P2.54mm_Vertical";1;"Analog";;;
+3;"J2";"PinSocket_1x10_P2.54mm_Vertical";1;"Digital/PWM";;;
+4;"J4";"PinSocket_1x08_P2.54mm_Vertical";1;"Digital/PWM";;;
+5;"D4,D5,D2,D3,D6,D1";"LED_D5.0mm";6;"LED";;;
+6;"R1,R6,R3,R4,R2,R5";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";6;"1k";;;
+7;"U4";"MODULE_DEV-13712";1;"DEV-13712";;;
+8;"U3,U2";"MODULE_2652";2;"2652";;;
+9;"RV1";"Potentiometer_Bourns_3386P_Vertical";1;"10k";;;
+10;"J9";"PinHeader_1x03_P2.54mm_Vertical";1;"JUMPER";;;
+11;"U1";"LFCSP-16-4X4";1;"ADXL335";;;
